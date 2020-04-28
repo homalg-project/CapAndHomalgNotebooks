@@ -1,0 +1,5 @@
+[deps]
+HomalgProject = "50bd374c-87b5-11e9-015a-2febe71398bd"
+
+[compat]
+julia = "1.3"
