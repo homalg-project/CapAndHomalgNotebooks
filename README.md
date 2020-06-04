@@ -12,4 +12,4 @@ most of which are based on the
 These notebooks use the [Julia](https://julialang.org/) package
 [HomalgProject](https://github.com/homalg-project/HomalgProject.jl).
 
-You can execute the notebooks interactively online using [jupyter nbviewer](https://nbviewer.jupyter.org/github/homalg-project/CapHomalgNotebooks/tree/master/) by clicking the button `Execute on Binder` in the top-right corner of the webpage.
+You can execute the notebooks interactively online by visiting the [jupyter nbviewer page](https://nbviewer.jupyter.org/github/homalg-project/CapHomalgNotebooks/tree/master/) and clicking on `Binder`'s three-circle-logo (tooltip `Execute on Binder`) at the top-right corner.
