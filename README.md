@@ -1,4 +1,4 @@
-## CAP and homalg based packages
+## CAP and homalg based Jupyter notebooks
 
 This directory contains a collection of
 [Jupyter](https://jupyter.org/) notebooks demonstrating the
