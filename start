@@ -1,0 +1,5 @@
+#!/bin/bash
+
+julia -e 'using CapAndHomalg; UpdateAllPackagesFromHomalgProjectInParallel();'
+
+exec "$@"
