@@ -24,7 +24,7 @@ through the [Julia](https://julialang.org/) package
 | [ImageOfPullback_in_AbelianClosure_using_Freyd.ipynb][ImageOfPullback_in_AbelianClosure_using_Freyd]     |
 | [SymmetricAlgebraInternalToS4rep.ipynb][SymmetricAlgebraInternalToS4rep]                                 |
 | [TiltingEquivalence.ipynb][TiltingEquivalence]                                                           |
-| [uMPS(2,2,4)_0dim.ipynb.ipynb][uMPS224]                                                                  |
+| [uMPS(2,2,4)_0dim.ipynb][uMPS224]                                                                        |
 
 <!-- BEGIN FOOTER -->
 
