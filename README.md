@@ -8,7 +8,7 @@ of which are part on the four projects:
 
 * [homalg_project](https://github.com/homalg-project/homalg_project#readme),
 * [CAP_project](https://github.com/homalg-project/CAP_project#readme),
-* [CategoricalTowers](https://github.com/homalg-project/CategoricalTowers#readme).
+* [CategoricalTowers](https://github.com/homalg-project/CategoricalTowers#readme),
 * [HigherHomologicalAlgebra](https://github.com/homalg-project/HigherHomologicalAlgebra#readme).
 
 All these [GAP](https://www.gap-system.org/) packages are accessed
