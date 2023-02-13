@@ -26,6 +26,12 @@ through the [Julia](https://julialang.org/) package
 | [TiltingEquivalence.ipynb][TiltingEquivalence]                                                           |
 | [uMPS(2,2,4)_0dim.ipynb][uMPS224]                                                                        |
 
+## Running the notebooks on your machine
+
+The notebooks require the [Julia](https://julialang.org/) packages
+* [`IJulia`](https://github.com/JuliaLang/IJulia.jl#readme) to launch [Jupyter](https://jupyter.org/) in the browser and load the notebooks, and
+* [`CapAndHomalg`](https://github.com/homalg-project/CapAndHomalg.jl#readme) to run them interactively.
+
 <!-- BEGIN FOOTER -->
 
 [CategoryOfRepresentations]: https://homalg-project.github.io/nb/CategoryOfRepresentations/
