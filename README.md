@@ -22,6 +22,7 @@ through the [Julia](https://julialang.org/) package
 | [DivFreeNotIndFree.ipynb][DivFreeNotIndFree]                                                             |
 | [ImageOfPullback_in_AbelianClosure_using_Adelman.ipynb][ImageOfPullback_in_AbelianClosure_using_Adelman] |
 | [ImageOfPullback_in_AbelianClosure_using_Freyd.ipynb][ImageOfPullback_in_AbelianClosure_using_Freyd]     |
+| [PastingLawForPullbacks.ipynb][PastingLawForPullbacks]                                                   |
 | [SymmetricAlgebraInternalToS4rep.ipynb][SymmetricAlgebraInternalToS4rep]                                 |
 | [TiltingEquivalence.ipynb][TiltingEquivalence]                                                           |
 | [uMPS(2,2,4)_0dim.ipynb][uMPS224]                                                                        |
@@ -39,6 +40,7 @@ The notebooks require the [Julia](https://julialang.org/) packages
 [DivFreeNotIndFree]: https://homalg-project.github.io/nb/DivFreeNotIndFree/
 [ImageOfPullback_in_AbelianClosure_using_Adelman]: https://homalg-project.github.io/nb/ImageOfPullback/
 [ImageOfPullback_in_AbelianClosure_using_Freyd]: https://homalg-project.github.io/nb/ImageOfPullback_using_Freyd/
+[PastingLawForPullbacks]: https://homalg-project.github.io/nb/PastingLawForPullbacks/
 [SymmetricAlgebraInternalToS4rep]: https://homalg-project.github.io/nb/SymmetricAlgebraInternalToS4rep/
 [TiltingEquivalence]: https://homalg-project.github.io/nb/TiltingEquivalence/
 [uMPS224]: https://homalg-project.github.io/nb/uMPS224/
